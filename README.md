@@ -38,6 +38,4 @@ By leveraging computer vision and deep learning techniques, the system continuou
 3. If explicit regions are detected, those regions are pixelated using OpenCV.
 4. The processed frame is then pushed back into the live stream with minimal delay.
 
----
 
-## 📂 Folder Structure
